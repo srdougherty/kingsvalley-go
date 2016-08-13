@@ -1,5 +1,5 @@
 # kingsvalley-go
-A Go implementation of the board game King's Valley
+A Go implementation of the board game King's Valley  
 (My first foray into GO)
 
 ## About King's Valley
